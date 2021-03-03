@@ -7,6 +7,8 @@ namespace gitp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World! dev");
+            Console.WriteLine("this is test featuse");
+
         }
     }
 }
